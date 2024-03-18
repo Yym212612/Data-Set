@@ -13,5 +13,5 @@ Value (V) represents the third harmonic.
 Finally, the following trajectory diagram can be obtained
 
 ![image](https://github.com/Yym212612/Data-Set/assets/117264647/d1bb2fdb-7bab-45a5-a337-eeb1a1b712b6)
-![image](https://github.com/Yym212612/Data-Set/assets/117264647/2790ed0a-9f73-416f-9a5d-c903ce1e0c72)
+
 ![image](https://github.com/Yym212612/Data-Set/assets/117264647/c7104d3a-256d-4f54-b655-8db263e8ea7b)
