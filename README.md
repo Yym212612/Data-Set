@@ -15,3 +15,5 @@ Finally, the following trajectory diagram can be obtained
 ![image](https://github.com/Yym212612/Data-Set/assets/117264647/d1bb2fdb-7bab-45a5-a337-eeb1a1b712b6)
 
 ![image](https://github.com/Yym212612/Data-Set/assets/117264647/c7104d3a-256d-4f54-b655-8db263e8ea7b)
+
+Subsequently, the image needs to be input into the recognition network for load recognition.
